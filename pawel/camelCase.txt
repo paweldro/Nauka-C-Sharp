@@ -1,0 +1,3 @@
+camelCase – system notacji ciągów tekstowych, w którym kolejne wyrazy pisane są łącznie, rozpoczynając każdy następny wielką literą 
+(prócz pierwszego). Na przykład: foreColor, setConnection, isPaymentPosted. Zapis camelCase różni się od notacji PascalCase, tym że 
+rozpoczyna się małą literą.
